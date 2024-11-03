@@ -1,6 +1,6 @@
 # AI Notebook
-AI Notebook - Notion Site
-https://rohanroy.notion.site/e81b17fce2394184afaa644b91b7e901?v=5dbab2b775a3413ba0a1f1b2aca77ad4&pvs=4
+[AI Notebook - Notion Site]([url](https://rohanroy.notion.site/e81b17fce2394184afaa644b91b7e901?v=5dbab2b775a3413ba0a1f1b2aca77ad4&pvs=4))
+
 
 Chapters: 
 1. [Andrew Ng Deep Learning Notebook]([url](https://www.notion.so/rohanroy/AndrewNG-Deep-Learning-Notebook-7f6617bc9bcc4fe191f6217d434b742e?pvs=4))
