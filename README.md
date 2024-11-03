@@ -3,7 +3,7 @@ AI Notebook - Notion Site
 https://rohanroy.notion.site/e81b17fce2394184afaa644b91b7e901?v=5dbab2b775a3413ba0a1f1b2aca77ad4&pvs=4
 
 Chapters: 
-1. # AndrewNG Deep Learning Notebook [Convolutional Neural Networks](https://www.notion.so/Convolutional-Neural-Networks-8fa9d2f4158d4192ac7bfc8170875bfa?pvs=21)
+1. [Andrew Ng Deep Learning Notebook]([url](https://www.notion.so/rohanroy/AndrewNG-Deep-Learning-Notebook-7f6617bc9bcc4fe191f6217d434b742e?pvs=4))
 
 2. [Advance Machine Learning: UCLA Course on Deep Learning](https://www.notion.so/Advance-Machine-Learning-UCLA-Course-on-Deep-Learning-1333afd85f8080dca6add3c37bc788ba?pvs=21)
 
